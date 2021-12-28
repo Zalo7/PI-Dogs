@@ -1,0 +1,104 @@
+.br {
+    background: url("https://cdn.discordapp.com/attachments/496420020642119691/917568148432093215/happy-dogs-and-puppies-cartoon-characters-group-vector.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    background: #4d4b4b3d;
+    backdrop-filter: blur(3px);
+    border-radius: 100px;
+    margin-top: 20px;
+  }
+  
+  .boton_X {
+    margin-top: 42px;
+  }
+  
+  .boton_X {
+    background-color: black;
+    border-style: ridge;
+    border-radius: 10px;
+  }
+  
+  .boton_X:hover {
+    background-color: rgb(180, 35, 35);
+  }
+  
+  .label {
+    margin: none;
+    border-radius: 40px;
+    color: black;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 70px;
+  }
+  
+  .crear {
+    font-family: "Urbanist", sans-serif;
+    margin-left: 20px;
+    border-style: initial;
+    border-radius: 10px;
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+    color: white;
+    height: 19px;
+    margin-top: 15px;
+  }
+  
+  .crear:hover {
+    transform: scale(1.1);
+  }
+  
+  .fondo_blanco {
+    margin: 10px;
+    border-radius: 20px;
+    background-color: wheat;
+    border-style: hidden;
+  }
+  
+  .input_fondoBlanco {
+    border-radius: 20px;
+    background-color: wheat;
+    border-style: hidden;
+  }
+  
+  .raza {
+    font-family: "Courier New", Courier, monospace;
+    text-transform: uppercase;
+    width: 500px;
+  }
+  
+  .lista {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 20px;
+  }
+  
+  .creation {
+    color: red;
+  }
+  
+  .button-delete {
+    background-color: wheat;
+    border-style: ridge;
+    border-radius: 10px;
+  }
+  
+  .button-delete:hover {
+    background-color: rgb(180, 35, 35);
+    transition: 1s;
+  }

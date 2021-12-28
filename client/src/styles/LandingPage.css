@@ -1,0 +1,28 @@
+.landing {
+background: url('../images/Dogs2.jpg');
+background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  Height:100vh;
+  scroll-behavior: hidden;
+  overflow: hidden;
+}
+
+.button {
+  font-family: 'Urbanist', sans-serif;
+  border-radius: 40px;
+    border-style: inset;
+    background-color: #fbb034;
+background-image: linear-gradient(315deg, #fbb034 0%, #ffdd00 74%);
+    color: black;
+    width: 36%;
+    margin-top: 120px;
+    height: 60px;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+

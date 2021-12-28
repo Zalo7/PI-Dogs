@@ -1,0 +1,52 @@
+.about {
+    background: url("https://blog.alleninteractions.com/hs-fs/hubfs/elearning_lessons_from_dogs_blog_.png?width=866&height=494&name=elearning_lessons_from_dogs_blog_.png");
+    background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+  Height:100vh;
+  scroll-behavior: hidden;
+  overflow: hidden;
+  font-family: 'Urbanist', sans-serif;
+  color: black;
+  -webkit-text-stroke-width: 1.4px;
+ -webkit-text-fill-color: yellow;
+}
+
+.linkedin {
+    font-size: 27px;
+    font-family: 'Urbanist', sans-serif;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-fill-color: rgb(81, 190, 233);;
+color: white;
+}
+
+.github {
+    font-size: 27px;
+    font-family: 'Urbanist', sans-serif;
+ -webkit-text-stroke-width: 1.2px;
+ -webkit-text-fill-color: white;
+ color: black;
+}
+
+.discord {
+    font-size: 27px;
+    font-family: 'Urbanist', sans-serif;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-fill-color: white;
+color: rgb(69, 39, 139);
+}
+
+.me {
+    font-family: 'Urbanist', sans-serif;
+    color: black;
+    background-color: yellow;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.me:hover{
+    color: black;
+    background-color: rgb(120, 214, 26);
+}

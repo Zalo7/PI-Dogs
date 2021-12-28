@@ -1,0 +1,13 @@
+.escapado {
+    font-family: 'Urbanist', sans-serif;
+    margin-left: 20px;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-fill-color: rgb(255, 251, 7);
+    color: black;
+    font-size: 40px;
+}
+
+.perrito {
+    margin-left: 120px;
+}
+

@@ -1,0 +1,42 @@
+.detail_image {
+    border-radius: 200px;
+}
+
+.detail_backg {
+    background: url("https://static.vecteezy.com/system/resources/previews/000/649/926/non_2x/seamless-dog-head-pattern-vector.jpg");
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.botone {
+    background-color: black;
+    border-style:ridge;
+    border-radius: 10px;
+    display: flex;
+    margin-top: -435px;
+    margin-left: 60px;
+}
+
+.botone:hover {
+    background-color: rgb(180, 35, 35);
+}
+
+.detalle {
+    display: inline-block;
+    width: 80%;
+    background: #4d4b4b3d;
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+.palabra {
+    font-family: 'Urbanist', sans-serif;
+    font-weight:inherit;
+}

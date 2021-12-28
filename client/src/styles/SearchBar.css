@@ -1,0 +1,12 @@
+.searchbar {
+    font-family: monospace;
+    color: white;
+    background-color: rgb(120, 214, 26);
+    border-style:inset;
+    margin-top: 20px;
+}
+
+.searchy {
+ border-style:inset;
+ background-color: rgb(198, 255, 140);
+}
