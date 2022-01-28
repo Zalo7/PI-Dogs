@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { postBreed, getTemperaments } from "../actions";
 import { useDispatch, useSelector } from "react-redux";
-import "../styles/CreateDog.css";
+import '../styles/CreateDog.css'
 
 function validate(input) {
   let error = {};
@@ -176,3 +176,5 @@ export default function CreateDog() {
     </div>
   );
 }
+
+
