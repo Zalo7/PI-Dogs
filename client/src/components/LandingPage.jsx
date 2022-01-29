@@ -5,7 +5,7 @@ import '../styles/LandingPage.css'
 export default function LandingPage() {
     return(
         <div className='landing'>
-            <h1 className='welcome'></h1>
+            <h1 className='welcome'>-</h1>
             <Link to ='/home'>
                 <button className='button'>INGRESAR A MI PLANETA</button>
             </Link>

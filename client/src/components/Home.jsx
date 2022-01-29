@@ -13,7 +13,6 @@ import { Link } from "react-router-dom";
 import Card from "../components/Card";
 import Paginado from "./Paginate";
 import SearchBar from "./SearchBar";
-import AboutMe from "./AboutMe";
 import "../styles/Home.css";
 import NoResults from "./NoResults";
 
